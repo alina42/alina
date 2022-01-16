@@ -145,85 +145,6 @@ The spotted lanternfly, Lycorma delicatula, on a host tree: 4th nymphal instar, 
 
 
 
-<hr>
-<h2><strong>Acridid grasshoppers and their novel host plants (postdoctoral research)</strong></h2>
-<hr>
-<h4><strong>(1) Should I eat or should I go? A systematic review and meta-analysis</strong></h4>
-
-This project had developed from the results of my doctoral dissertation. In my doctoral research, I found feeding preferences of Melanoplus grasshoppers for introduced, sometimes invasive plants, and I was curious whether all the acridid grasshoppers demonstrate such feeding behavior in response to novel host plants. To address this question, I conducted a systematic review to identify patterns of feeding preferences of acridid grasshoppers for native versus introduced plants and, consequently, grasshopper potential for biotic resistance of native communities. 
-
-The analysis of 63 records of feeding preference trials for 28 North-American grasshopper species (retrieved from 2146 studies published during 1967–2017) has demonstrated a preference of grasshoppers for introduced host plants, and identified 12 preferred introduced plants with high or middle invasive ranks. A significant effect of the life stage (p < 0.001), but not the experimental environment, plant material, and measurements, on grasshopper preferences for introduced plants was also detected. Overall, results suggest a potential of acridid grasshoppers to contribute to the biotic resistance of native communities. The review also provides methodological recommendations for future experimental studies on grasshopper-host plant interactions.
-
-<div class="row">
-  <div class="col-sm">
-    <figure class="text-center">
-    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/projects/novel_associations/img-5.jpg' | relative_url }}" alt="">
-    <figcaption class="figure-caption">My table pet for inspiration :)
-    </figcaption>
-    </figure>
-  </div>
-  <div class="col-sm">
-    <figure class="text-center">
-    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/projects/novel_associations/meta-analysis.jpg' | relative_url }}" alt="">
-    <figcaption class="figure-caption">Literature search and data colelction: PRISMA flowchart
-    </figcaption>
-    </figure>
-  </div>
-</div>
-
-<h4>Updates:</h4>
-
-* 10/07/18: the <a href="{{ 'assets/content/publications/2018_should_i_eat.pdf' | relative_url }}">manuscript</a> has been published in [Plants](https://www.mdpi.com/2223-7747/7/4/83)! I was also featured in our departmental [news](https://entomology.umd.edu/news/alina-avanesyan-published-in-plants).
-
-* 07/07/18: I've submitted a poster presentation on this review to the upcoming 
-[ESA meeting in Vancouver, BC, Canada](https://www.entsoc.org/event-calendar/2018-esa-esc-and-esbc-joint-annual-meeting-entomology-2018). 
-I'm also going to present it here, at the University of Maryland research
-symposium organized by the Office of Postdoctoral Affairs.
-
-* 05/18/18: the manuscript has been submitted!
-
-<h4>Representative publications and presentations:</h4>
-
-1. <strong>Avanesyan, A.</strong> (2018) Should I eat or should I go? Acridid grasshoppers and their novel host plants: implications for biotic resistance. Plants: Special Issue "Plants Interacting with other Organisms: Insects", 7(4), 83. Invited paper <a class="ic4f-nowrap" href="/assets/content/publications/2018_should_i_eat.pdf"><i class="material-icons md-18">file_download</i><span class="ic4f-download">full text</span></a>  
-
-1. <strong>Avanesyan, A.</strong> (2018) Should I eat or should I go? Acridid grasshoppers and their novel host plants: implications for biotic resistance. Annual Meeting of the Entomological Society of America: 2018 ESA, ESC, and ESBC Joint Annual Meeting, Vancouver, BC, Canada. Poster presentation <a class="ic4f-nowrap" href="/assets/content/publications/2018_ESA_poster.pdf"><i class="material-icons md-18">file_download</i><span class="ic4f-download">full text</span></a>  
-
-<h4><strong>(2) Herbivore resistance and tolerance in invasive Miscanthus sinensis cultivars</strong></h4>
-
-Introduced grasses can aggressively expand their range and invade native habitats. Miscanthus sinensis, the chinese silver grass, is an introduced ornamental grass with 100+ cultivars of various invasive potential. Although Miscanthus sinensis is a gorgeous ornamental plant and important biofuel source, it can be highly invasive in some states; however, not all of its cultivars are invasive. For this project, in 2018-2019, I conducted field and greenhouse experiments to explore plant resistance and tolerance to grasshopper herbivory in five cultivars of Miscanthus sinensis. The results of this project demonstrated that plant responses varied among the cultivars during a season; all the cultivars, but “Zebrinus”, demonstrated a significant increase in plant tolerance by the end of the growing season regardless of the amount of sustained leaf damage. Different patterns in plant responses from “solid green” and “striped/spotted” varieties were recorded, with the lowest plant resistance detected for “Autumn Anthem” in the cage experiment. Our results have important applications for monitoring low-risk invaders in protected areas, as well as for biotic resistance of native communities to invasive grasses.
-
-
-<div class="row">
-  <div class="col-sm">
-    <figure class="text-center">
-    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/projects/novel_associations/img-10.jpg' | relative_url }}" alt="">
-    <figcaption class="figure-caption">Miscanthus sinensis cultivars I use in my experiments (from left to right): ‘Dixieland’, ‘Autumn Anthem’, ‘Zebrinus’, ‘Morning Light’, ‘Gracillimus’
-    </figcaption>
-    </figure>
-  </div>
-</div>
-
-<h4>Updates:</h4>
-
-* 12/25/2021: The <a href="{{ 'assets/content/publications/2022_miscanthus.pdf' | relative_url }}">manuscript</a> has been published in [Plants](https://www.mdpi.com/journal/plants/special_issues/invasive_alien_species_protected_areas)! 
-
-* 09/20/21: I was invited to submit our study on responses of Miscanthus sinensis cultivars to insect herbivory to Plants, Special Issue
-["Invasive Alien Species in Protected Areas"](https://www.mdpi.com/journal/plants/special_issues/invasive_alien_species_protected_areas).
-
-* 07/27/20: I presented this project at the [Botany-2020 virtual meeting](https://2020.botanyconference.org/), Annual Meeting of the Botanical Society of America. Here is a [video recording](https://www.youtube.com/watch?v=gZJb6n5DNWo&t=14s) of my talk, and here are my <a href="{{ 'assets/content/publications/2020_Botany_talk.pdf' | relative_url }}">slides</a>.
-
-* 09/20/19: I've finished the analysis of the data we collected in 2018 and 2019 summer seasons; we see some interesting patterns in plant tolerance to herbivory and their association with plant morphological appearance; and I'm about to start working on the manuscript. 
-
-<h4>Representative publications and presentations:</h4>
-
-1. <strong>Avanesyan, A.</strong>, and W.O. Lamp. (2022) Response of five Miscanthus sinensis cultivars to grasshopper herbivory: implications for monitoring of invasive grasses in protected areas. Plants: Special Issue
-"Invasive Alien Species in Protected Areas ", 11(1), 53, https://doi.org/10.3390/plants11010053. Invited paper <a class="ic4f-nowrap" href="/assets/content/publications/2022_miscanthus.pdf"><i class="material-icons md-18">file_download</i><span class="ic4f-download">full text</span></a> 
-
-2. <strong>Avanesyan, A.</strong>, and W. Lamp. (2020) Variation in plant responses to grasshopper herbivory among the cultivars of the introduced Miscanthus sinensis. Botany 2020: Annual Meeting of the Botanical Society of
-America. Oral presentation <a class="ic4f-nowrap" href="/assets/content/publications/2020_Botany_talk.pdf"><i class="material-icons md-18">file_download</i><span class="ic4f-download">full text</span></a>  
 
 <hr>
 <h2><strong>Insect diet analysis: use of a DNA barcoding approach</strong></h2>
@@ -275,16 +196,27 @@ We hope that outcomes of our systematic review would help us provide the methodo
   <div class="col-sm">
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/misc/review-fig1.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Literature search and data colection: PRISMA flowchart
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
     src="{{ '/assets/content/misc/system_review.jpg' | relative_url }}" alt="">
     <figcaption class="figure-caption">First resuls from the extracted data based on 39 studies and 63 experimental records which satisfied our inclusion criteria.
     </figcaption>
     </figure>
-    </div>
+  </div>
 </div>
 
 <h4>Updates:</h4>
 
-* 09/09/20: our manuscript is currently in revision.
+* 03/21/21: It has been a long process, but we did it! Our <a href="{{ 'assets/content/publications/2021_choosingPCRapproach.pdf' | relative_url }}">review paper</a> on choosing an effective PCR-based approach for diet
+analysis of insect herbivores is published in [Journal of Economic Entomology](https://academic.oup.com/jee/advance-article-abstract/doi/10.1093/jee/toab057/6209424)! So exciting!
+
+* 09/09/20: our manuscript, with my mentee, Hannah, as a co-author, is currently in revision.
 
 * 02/05/20: secondary references are retrieved from the selected articles; we are currently extracting data from the studies.
 
@@ -371,6 +303,85 @@ To date, we were able to identify seven unique stream species and four unique we
 
 * 02/22/19: Nina, my mentee, a high school student, who was working on this project since September 2018, presented her research project earlier this week at her school’s science fair and got 3rd prize! So exciting!
 
+<hr>
+<h2><strong>Acridid grasshoppers and their novel host plants (postdoctoral research)</strong></h2>
+<hr>
+<h4><strong>(1) Should I eat or should I go? A systematic review and meta-analysis</strong></h4>
+
+This project had developed from the results of my doctoral dissertation. In my doctoral research, I found feeding preferences of Melanoplus grasshoppers for introduced, sometimes invasive plants, and I was curious whether all the acridid grasshoppers demonstrate such feeding behavior in response to novel host plants. To address this question, I conducted a systematic review to identify patterns of feeding preferences of acridid grasshoppers for native versus introduced plants and, consequently, grasshopper potential for biotic resistance of native communities. 
+
+The analysis of 63 records of feeding preference trials for 28 North-American grasshopper species (retrieved from 2146 studies published during 1967–2017) has demonstrated a preference of grasshoppers for introduced host plants, and identified 12 preferred introduced plants with high or middle invasive ranks. A significant effect of the life stage (p < 0.001), but not the experimental environment, plant material, and measurements, on grasshopper preferences for introduced plants was also detected. Overall, results suggest a potential of acridid grasshoppers to contribute to the biotic resistance of native communities. The review also provides methodological recommendations for future experimental studies on grasshopper-host plant interactions.
+
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-5.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">My table pet for inspiration :)
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/meta-analysis.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Literature search and data colection: PRISMA flowchart
+    </figcaption>
+    </figure>
+  </div>
+</div>
+
+<h4>Updates:</h4>
+
+* 10/07/18: the <a href="{{ 'assets/content/publications/2018_should_i_eat.pdf' | relative_url }}">manuscript</a> has been published in [Plants](https://www.mdpi.com/2223-7747/7/4/83)! I was also featured in our departmental [news](https://entomology.umd.edu/news/alina-avanesyan-published-in-plants).
+
+* 07/07/18: I've submitted a poster presentation on this review to the upcoming 
+[ESA meeting in Vancouver, BC, Canada](https://www.entsoc.org/event-calendar/2018-esa-esc-and-esbc-joint-annual-meeting-entomology-2018). 
+I'm also going to present it here, at the University of Maryland research
+symposium organized by the Office of Postdoctoral Affairs.
+
+* 05/18/18: the manuscript has been submitted!
+
+<h4>Representative publications and presentations:</h4>
+
+1. <strong>Avanesyan, A.</strong> (2018) Should I eat or should I go? Acridid grasshoppers and their novel host plants: implications for biotic resistance. Plants: Special Issue "Plants Interacting with other Organisms: Insects", 7(4), 83. Invited paper <a class="ic4f-nowrap" href="/assets/content/publications/2018_should_i_eat.pdf"><i class="material-icons md-18">file_download</i><span class="ic4f-download">full text</span></a>  
+
+1. <strong>Avanesyan, A.</strong> (2018) Should I eat or should I go? Acridid grasshoppers and their novel host plants: implications for biotic resistance. Annual Meeting of the Entomological Society of America: 2018 ESA, ESC, and ESBC Joint Annual Meeting, Vancouver, BC, Canada. Poster presentation <a class="ic4f-nowrap" href="/assets/content/publications/2018_ESA_poster.pdf"><i class="material-icons md-18">file_download</i><span class="ic4f-download">full text</span></a>  
+
+<h4><strong>(2) Herbivore resistance and tolerance in invasive Miscanthus sinensis cultivars</strong></h4>
+
+Introduced grasses can aggressively expand their range and invade native habitats. Miscanthus sinensis, the chinese silver grass, is an introduced ornamental grass with 100+ cultivars of various invasive potential. Although Miscanthus sinensis is a gorgeous ornamental plant and important biofuel source, it can be highly invasive in some states; however, not all of its cultivars are invasive. For this project, in 2018-2019, I conducted field and greenhouse experiments to explore plant resistance and tolerance to grasshopper herbivory in five cultivars of Miscanthus sinensis. The results of this project demonstrated that plant responses varied among the cultivars during a season; all the cultivars, but “Zebrinus”, demonstrated a significant increase in plant tolerance by the end of the growing season regardless of the amount of sustained leaf damage. Different patterns in plant responses from “solid green” and “striped/spotted” varieties were recorded, with the lowest plant resistance detected for “Autumn Anthem” in the cage experiment. Our results have important applications for monitoring low-risk invaders in protected areas, as well as for biotic resistance of native communities to invasive grasses.
+
+
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-10.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Miscanthus sinensis cultivars I use in my experiments (from left to right): ‘Dixieland’, ‘Autumn Anthem’, ‘Zebrinus’, ‘Morning Light’, ‘Gracillimus’
+    </figcaption>
+    </figure>
+  </div>
+</div>
+
+<h4>Updates:</h4>
+
+* 12/25/2021: The <a href="{{ 'assets/content/publications/2022_miscanthus.pdf' | relative_url }}">manuscript</a> has been published in [Plants](https://www.mdpi.com/journal/plants/special_issues/invasive_alien_species_protected_areas)! 
+
+* 09/20/21: I was invited to submit our study on responses of Miscanthus sinensis cultivars to insect herbivory to Plants, Special Issue
+["Invasive Alien Species in Protected Areas"](https://www.mdpi.com/journal/plants/special_issues/invasive_alien_species_protected_areas).
+
+* 07/27/20: I presented this project at the [Botany-2020 virtual meeting](https://2020.botanyconference.org/), Annual Meeting of the Botanical Society of America. Here is a [video recording](https://www.youtube.com/watch?v=gZJb6n5DNWo&t=14s) of my talk, and here are my <a href="{{ 'assets/content/publications/2020_Botany_talk.pdf' | relative_url }}">slides</a>.
+
+* 09/20/19: I've finished the analysis of the data we collected in 2018 and 2019 summer seasons; we see some interesting patterns in plant tolerance to herbivory and their association with plant morphological appearance; and I'm about to start working on the manuscript. 
+
+<h4>Representative publications and presentations:</h4>
+
+1. <strong>Avanesyan, A.</strong>, and W.O. Lamp. (2022) Response of five Miscanthus sinensis cultivars to grasshopper herbivory: implications for monitoring of invasive grasses in protected areas. Plants: Special Issue
+"Invasive Alien Species in Protected Areas ", 11(1), 53, https://doi.org/10.3390/plants11010053. Invited paper <a class="ic4f-nowrap" href="/assets/content/publications/2022_miscanthus.pdf"><i class="material-icons md-18">file_download</i><span class="ic4f-download">full text</span></a> 
+
+2. <strong>Avanesyan, A.</strong>, and W. Lamp. (2020) Variation in plant responses to grasshopper herbivory among the cultivars of the introduced Miscanthus sinensis. Botany 2020: Annual Meeting of the Botanical Society of
+America. Oral presentation <a class="ic4f-nowrap" href="/assets/content/publications/2020_Botany_talk.pdf"><i class="material-icons md-18">file_download</i><span class="ic4f-download">full text</span></a>  
 
 
 <hr>
