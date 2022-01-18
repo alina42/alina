@@ -673,6 +673,31 @@ Entomology, University of Maryland, College Park, MD; HONR208D class. Guest lect
 # ------------------------------------------------------------------------------
 
 - entry: '
+    Hartman, M. E., Avanesyan, A. and Lamp, W. (2021) Limoniidae sp. isolate MH2h cytochrome c
+oxidase subunit I (COX1) gene, partial cds; mitochondrial. Direct Submission, GenBank Accession no.
+OL743186'
+  type: genbank
+  date: 2022-01-05
+  url: 'https://www.ncbi.nlm.nih.gov/nuccore/OL743186.1'
+  projects: [novel_associations]
+
+- entry: '
+    Avanesyan, A. and W. O. Lamp. (2021) Philoscia muscorum voucher ISO-1 cytochrome c oxidase subunit
+I (COX1) gene, partial cds; mitochondrial. Direct Submission, GenBank Accession no. OK576272'
+  type: genbank
+  date: 2021-12-05
+  url: 'https://www.ncbi.nlm.nih.gov/nuccore/OK576272.1'
+  projects: [novel_associations]
+
+- entry: '
+    McPherson C., Avanesyan, A. and W. O. Lamp. (2021) [Predicted: Carya illinoinensis] isolate 4n
+ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast.
+Direct Submission, GenBank Accession no. OK623476'
+  type: genbank
+  date: 2021-11-05
+  projects: [novel_associations]
+
+- entry: '
     Avanesyan, A. and W. O. Lamp. (2020) Betula pendula isolate 1E4a ribulose-1,5-bisphosphate
 carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast. Direct Submission,
 GenBank Accession no. MT119453'
