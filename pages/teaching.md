@@ -12,34 +12,36 @@ NEW: <strong><a href="{{ site.baseurl }}{% link pages/courses/invasion-ecology.m
 
 ## Courses taught
 
-<p class="mb-1"><strong>Department of Entomology, University of Maryland, College Park</strong> (2018-present)</p>
+<p class="mb-1"><strong>Master of Chemical & Life Sciences Program, University of Maryland, College Park, MD</strong> (2019-present; instructor of record)</p>
+* <a href="{{ site.baseurl }}{% link pages/courses/evolutionary-biology.md %}">Evolutionary Biology</a> (CLFS 609J; online course; 3 units; 2019-present) 
+* Seminar in Current Topics in Chemical and Life Science: Scholarly Paper Section (3 units; 2021-present)
 
-* <a href="{{ site.baseurl }}{% link pages/courses/evolutionary-biology.md %}">Evolutionary Biology</a> (CLFS 609J; online course; 3 units; 2019-present; instructor) 
-* <a href="{{ site.baseurl }}{% link pages/courses/insect-biodiversity.md %}">Insect Biodiversity: The Good, The Bad and The Weird</a> (HONR208D; 3 units; 2018; teaching assistant)
-* <a href="{{ site.baseurl }}{% link pages/courses/aquatic-entomology.md %}">Aquatic Entomology</a> (ENTM667; 3 units; 2018; teaching assistant)
+<p class="mb-1"><strong>Department of Entomology, University of Maryland, College Park, MD</strong> (2018; teaching assistant)</p>
+* <a href="{{ site.baseurl }}{% link pages/courses/insect-biodiversity.md %}">Insect Biodiversity: The Good, The Bad and The Weird</a> (HONR208D; laboratory; 3 units)
+* <a href="{{ site.baseurl }}{% link pages/courses/aquatic-entomology.md %}">Aquatic Entomology</a> (ENTM667; laboratory; 3 units)
 
-<p class="mb-1"><strong>Biology Department, Grand View University</strong> (2016–2017)</p>
+<p class="mb-1"><strong>Biology Department, Grand View University, Des Moines, IA</strong> (2016–2017; instructor of record)</p>
 
-* <a href="{{ site.baseurl }}{% link pages/courses/genetics.md %}">Genetics</a> (laboratory; 4 units; 2016–2017; instructor)
-* <a href="{{ site.baseurl }}{% link pages/courses/molecular-biology.md %}">Molecular Biology</a> (laboratory; 4 units; 2017; instructor)
+* <a href="{{ site.baseurl }}{% link pages/courses/genetics.md %}">Genetics</a> (laboratory; 4 units; 2016–2017)
+* <a href="{{ site.baseurl }}{% link pages/courses/molecular-biology.md %}">Molecular Biology</a> (laboratory; 4 units; 2017)
 
-<p class="mb-1"><strong>Department of Biological Sciences, University of Cincinnati</strong> (2010–2014)</p>
+<p class="mb-1"><strong>Department of Biological Sciences, University of Cincinnati, Cincinnati, OH</strong> (2010–2014; teaching assistant)</p>
 
-* <a href="{{ site.baseurl }}{% link pages/courses/general-microbiology.md %}">General Microbiology Laboratory</a> (laboratory; 4 units; 2010–2013; teaching assistant)
-* Biology Laboratory (laboratory; 4 units; 2011; teaching assistant)
-* <a href="{{ site.baseurl }}{% link pages/courses/elementary-microbiology.md %}">Elementary Microbiology for Health Professionals</a> (laboratory; 4 units; 2012; teaching assistant)
-* Genetics and Cell Biology (laboratory; 4 units; 2013–2014; teaching assistant)
+* <a href="{{ site.baseurl }}{% link pages/courses/general-microbiology.md %}">General Microbiology Laboratory</a> (laboratory; 4 units; 2010–2013)
+* Biology Laboratory (laboratory; 4 units; 2011)
+* <a href="{{ site.baseurl }}{% link pages/courses/elementary-microbiology.md %}">Elementary Microbiology for Health Professionals</a> (laboratory; 4 units; 2012)
+* Genetics and Cell Biology (laboratory; 4 units; 2013–2014)
  
-<p class="mb-1"><strong>Department of Zoology, Herzen State University, St. Petersburg, Russia</strong> (2002–2009)</p>
+<p class="mb-1"><strong>Department of Zoology, Herzen State University, St. Petersburg, Russia</strong> (2002–2009; instructor of record)</p>
  
-* Invertebrate Zoology (laboratory, field course; 2002–2003; instructor)
-* Introductory Biology (lectures, laboratory; 2003–2006; instructor, docent)
-* General Biology (lectures; 2003–2005; instructor, docent)
-* <a href="{{ site.baseurl }}{% link pages/courses/animal-ecology.md %}">Animal Ecology</a> (lectures, laboratory; 2003–2009; instructor, docent)
-* Animal Behavior (lectures; 2004; instructor)
-* Ecology (lectures, laboratory, field course; 2005–2007; docent)
-* Human Ecology (lectures; 2007; docent)
-* Bioindication (lectures; 2008; docent)
+* Invertebrate Zoology (laboratory, field course; 2002–2003)
+* Introductory Biology (lectures, laboratory; 2003–2006)
+* General Biology (lectures; 2003–2005)
+* <a href="{{ site.baseurl }}{% link pages/courses/animal-ecology.md %}">Animal Ecology</a> (lectures, laboratory; 2003–2009)
+* Animal Behavior (lectures; 2004)
+* Ecology (lectures, laboratory, field course; 2005–2007)
+* Human Ecology (lectures; 2007)
+* Bioindication (lectures; 2008)
 
 ## Courses developed
 * <a href="{{ site.baseurl }}{% link pages/courses/invasion-ecology.md %}">Invasion Ecology</a> (2020)
