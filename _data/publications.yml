@@ -1,11 +1,18 @@
 # ------------------------------------------------------------------------------
 # journal articles
 # ------------------------------------------------------------------------------
-
+- entry: '
+  Avanesyan, A., and W.O. Lamp. (2022) Response of five Miscanthus sinensis cultivars to grasshopper herbivory: implications for monitoring of invasive grasses in protected areas. Plants: Special Issue "Invasive Alien Species in Protected Areas ", 11(1), 53, https://doi.org/10.3390/plants11010053. Invited
+paper. '
+  type: journal
+  date: 2021-12-25
+  file: 2022_miscanthus.pdf
+  url: 'https://www.mdpi.com/2223-7747/11/1/53'
+  projects: [novel_associations]
 
 - entry: '
   Avanesyan, A., Sutton, H., and W.O. Lamp. (2021) Choosing an effective PCR-based approach for diet analysis of insect herbivores: A systematic review. Journal of Economic Entomology
-XX(XX), 1–12 doi: 10.1093/jee/toab057. '
+114(3), 1035–1046. '
   type: journal
   date: 2021-03-25
   file: 2021_choosingPCRapproach.pdf
@@ -205,18 +212,19 @@ leafhopper, Empoasca fabae: potential use of molecular markers for gut content a
 # ------------------------------------------------------------------------------
 # manuscripts in preparation 
 # ------------------------------------------------------------------------------
-- entry: '
-  Avanesyan, A., Waterworth, R. A., Ramsey, S., Stelzig, O., Potter, M., and P. M. Shrewsbury. (2021) Interspecific and intraspecific interactions of native Anastatus reduvii and non-native Trissolcus
-japonicus, egg parasitoids of the brown marmorated stink bug, Halyomorpha halys Stål (Hemiptera: Pentatomidae) '
-  type: journal_prep
-  date: 2021-03-29
-  projects: [novel_associations]
+
 
 
 # ------------------------------------------------------------------------------
 # upcoming conference presentations
 # ------------------------------------------------------------------------------
-
+- entry: '
+  Wilkinson, A., Avanesyan, A., and W. Lamp. (2022) Using molecular gut content analysis to characterize
+PLH (Empoasca fabae) movement within a farmscape. Entomological Society of America Annual Meeting, Eastern Branch, Philadelphia, PA. Poster
+presentation. '
+  type: conference_upcoming
+  date: 2022-04-22
+  projects: [novel_associations] 
 
 #------------------------------------------------
 # conference presentations
