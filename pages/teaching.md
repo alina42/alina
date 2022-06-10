@@ -3,11 +3,11 @@ title:      Teaching
 permalink:  /teaching/
 ---
 <div style="padding: 10px;width:350px;text-align:center;background: #e9f0e9;">
-NEW: <strong><a href="{{ site.baseurl }}{% link pages/courses/dna-barcoding.md %}">DNA Barcoding for Everyone course</a></strong> I've developed
+New courses I've developed:<br>
+<strong><a href="{{ site.baseurl }}{% link pages/courses/dna-barcoding.md %}">DNA Barcoding for Everyone</a></strong> 
 </div>
-
 <div style="padding: 10px;width:350px;text-align:center;background: #e9f0e9;">
-NEW: <strong><a href="{{ site.baseurl }}{% link pages/courses/invasion-ecology.md %}">Invasion Ecology course</a></strong> I've developed
+<strong><a href="{{ site.baseurl }}{% link pages/courses/invasion-ecology.md %}">Invasion Ecology</a></strong> 
 </div>
 
 <hr>
@@ -48,11 +48,11 @@ NEW: <strong><a href="{{ site.baseurl }}{% link pages/courses/invasion-ecology.m
 * Bioindication (lectures; 2008)
 
 ## Courses developed
+* <a href="{{ site.baseurl }}{% link pages/courses/dna-barcoding.md %}">DNA Barcoding for Everyone</a> (2022)
 * <a href="{{ site.baseurl }}{% link pages/courses/invasion-ecology.md %}">Invasion Ecology</a> (2020)
 * <a href="{{ site.baseurl }}{% link pages/courses/animal-ecology.md %}">Animal Ecology</a> (2003)
-* Animal Behavior (2004)
-* Human Ecology (2007)
-* Bioindication (2008)
+
+
 
 {% assign path="/assets/content/courses/mainpage/" %}
 
