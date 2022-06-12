@@ -94,4 +94,8 @@ DNA barcoding is a very exciting process, and every day we do small (and sometim
 (d) Working with GenBank: BLAST and retrieving the sequences - <a href="{{ 'assets/content/misc/Working_with_GenBank.pdf' | relative_url }}">guidelines</a> (Prepared by Cameron McPherson)
 <hr>
 <h3><strong>Module 7 (extra): DNA Barcoding Experience - fun, challenges, and more</strong></h3>
-to be added
+* <a href="{{ site.baseurl }}{% link pages/courses/dna-barcoding-favorite-part.md %}">What is the coolest thing about DNA barcoding?</a>
+<br>
+* <a href="{{ site.baseurl }}{% link pages/courses/dna-barcoding-challenges.md %}">What is the most challenging part of the DNA barcoding work?</a>
+<br>
+* <a href="{{ site.baseurl }}{% link pages/courses/dna-barcoding-helpful-tips.md %}">Helpful tips!</a>

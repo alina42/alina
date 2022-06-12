@@ -2,14 +2,10 @@
 title:      Teaching
 permalink:  /teaching/
 ---
-<div style="padding: 10px;width:350px;text-align:center;background: #e9f0e9;">
-New courses I've developed:<br>
-<strong><a href="{{ site.baseurl }}{% link pages/courses/dna-barcoding.md %}">DNA Barcoding for Everyone</a></strong> 
-</div>
-<div style="padding: 10px;width:350px;text-align:center;background: #e9f0e9;">
-<strong><a href="{{ site.baseurl }}{% link pages/courses/invasion-ecology.md %}">Invasion Ecology</a></strong> 
-</div>
-
+## Courses developed
+* <a href="{{ site.baseurl }}{% link pages/courses/dna-barcoding.md %}">DNA Barcoding for Everyone</a> (2022) - <strong>NEW!</strong>
+* <a href="{{ site.baseurl }}{% link pages/courses/invasion-ecology.md %}">Invasion Ecology</a> (2020)
+* <a href="{{ site.baseurl }}{% link pages/courses/animal-ecology.md %}">Animal Ecology</a> (2003)
 <hr>
 
 
@@ -47,28 +43,19 @@ New courses I've developed:<br>
 * Human Ecology (lectures; 2007)
 * Bioindication (lectures; 2008)
 
-## Courses developed
-* <a href="{{ site.baseurl }}{% link pages/courses/dna-barcoding.md %}">DNA Barcoding for Everyone</a> (2022)
-* <a href="{{ site.baseurl }}{% link pages/courses/invasion-ecology.md %}">Invasion Ecology</a> (2020)
-* <a href="{{ site.baseurl }}{% link pages/courses/animal-ecology.md %}">Animal Ecology</a> (2003)
-
-
-
 {% assign path="/assets/content/courses/mainpage/" %}
 
 ## Guest lectures
 
 <p class="mb-1"><strong>Department of Entomology, University of Maryland, College Park</strong> (2018-2019)</p>
 
-* "Invasive species in freshwater ecosystems": September 29, 2019; this is a staged lecture (a short version of my guest lecture for BSCI 467: Freshwater Biology) {% include download.html base=path file="BSCI_staged_lecture.pdf" text="slides" -%} {% include download.html base=path file="BSCI_worksheet2.pdf" text="worksheet" -%} 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oujqMmwJybo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-
-* "Nerves and the neuronal action potential": 2019; this is an 80 minute demo lesson (Introductory Biology 3: Plant and Animal Anatomy and Physiology) {% include download.html base=path file="TBIOL_plan.pdf" text="lesson plan" -%} {% include download.html base=path file="TBIOL_slides.pdf" text="slides" -%} {% include download.html base=path file="TBIOL_worksheet.pdf" text="worksheet" -%} {% include download.html base=path file="TBIOL_pre.pdf" text="pre-class assignment" -%} {% include download.html base=path file="TBIOL_hw.pdf" text="post-class homework" -%} {% include download.html base=path file="TBIOL_cards.pdf" text="in-class cards" -%} 
-
 * HONR 208D: Insect Biodiversity: "Ecology of invasive species, consequences on society" (2019) {% include download.html base=path file="HONR208D_lecture2019.pdf" text="slides" -%} {% include download.html base=path file="HONR208D_worksheet2019.pdf" text="worksheet" -%} 
 
 * HONR 208D: Insect Biodiversity: "Ecology of invasive species, consequences on society" (2018) {% include download.html base=path file="HONR208D_lecture2018.pdf" text="slides" -%} {% include download.html base=path file="HONR208D_worksheet2018.pdf" text="worksheet" -%} 
+
+* "Invasive species in freshwater ecosystems": September 29, 2019; this is a staged lecture (a short version of my guest lecture for BSCI 467: Freshwater Biology) {% include download.html base=path file="BSCI_staged_lecture.pdf" text="slides" -%} {% include download.html base=path file="BSCI_worksheet2.pdf" text="worksheet" -%} 
+
+* "Nerves and the neuronal action potential": 2019; this is an 80 minute demo lesson (Introductory Biology 3: Plant and Animal Anatomy and Physiology) {% include download.html base=path file="TBIOL_plan.pdf" text="lesson plan" -%} {% include download.html base=path file="TBIOL_slides.pdf" text="slides" -%} {% include download.html base=path file="TBIOL_worksheet.pdf" text="worksheet" -%} {% include download.html base=path file="TBIOL_pre.pdf" text="pre-class assignment" -%} {% include download.html base=path file="TBIOL_hw.pdf" text="post-class homework" -%} {% include download.html base=path file="TBIOL_cards.pdf" text="in-class cards" -%} 
 
 <br>
 

@@ -143,7 +143,11 @@ The course includes weekly lectures and laboratories, weekly homework, 6 online 
 16. Wrap-up	
 * Special topic: TBD (students' choice)
 * Final exam
-
+<hr>
+This is a staged lecture; a short version of my guest lecture for the Freshwater Biology course:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oujqMmwJybo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<hr>
 ## Laboratories
 
 Week 1. Short presentations: "Invasion ecology: what I want to know". Setting-up experiment with native/invasive grasses (seedlings planted in the greenhouse before the class starts)
