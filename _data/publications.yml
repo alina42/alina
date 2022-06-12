@@ -2,6 +2,14 @@
 # journal articles
 # ------------------------------------------------------------------------------
 - entry: '
+  McPherson, C., Avanesyan, A., and W.O. Lamp. (2022) Diverse host plants of the first instars of the invasive Lycorma delicatula: insights from eDNA metabarcoding. Insects: Special Issue"Advances on Invasive Insect Pests: Insect Behavior, Host Plant Usage, Biocontrol, and More", 13(6), 534. Invited paper. '
+  type: journal
+  date: 2022-06-10
+  file: 2022_eDNA_metabarcoding.pdf
+  url: 'https://www.mdpi.com/2075-4450/13/6/534'
+  projects: [novel_associations]
+
+- entry: '
   Avanesyan, A., and W.O. Lamp. (2022) Response of five Miscanthus sinensis cultivars to grasshopper herbivory: implications for monitoring of invasive grasses in protected areas. Plants: Special Issue "Invasive Alien Species in Protected Areas ", 11(1), 53, https://doi.org/10.3390/plants11010053. Invited
 paper. '
   type: journal
@@ -218,17 +226,18 @@ leafhopper, Empoasca fabae: potential use of molecular markers for gut content a
 # ------------------------------------------------------------------------------
 # upcoming conference presentations
 # ------------------------------------------------------------------------------
-- entry: '
-  Wilkinson, A., Avanesyan, A., and W. Lamp. (2022) Using molecular gut content analysis to characterize
-PLH (Empoasca fabae) movement within a farmscape. Entomological Society of America Annual Meeting, Eastern Branch, Philadelphia, PA. Poster
-presentation. '
-  type: conference_upcoming
-  date: 2022-04-22
-  projects: [novel_associations] 
+
 
 #------------------------------------------------
 # conference presentations
 #------------------------------------------------
+- entry: '
+  Wilkinson, A., Avanesyan, A., and W. Lamp. (2022) Using molecular gut content analysis to characterize
+PLH (Empoasca fabae) movement within a farmscape. Entomological Society of America Annual Meeting, Eastern Branch, Philadelphia, PA. Poster
+presentation. '
+  type: conference
+  date: 2022-04-22
+  projects: [novel_associations] 
 
 - entry: '
   Avanesyan, A., Waterworth, R. A., Ramsey, S., Stelzig, O., and P. M. Shrewsbury. (2021)

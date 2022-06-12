@@ -99,3 +99,8 @@ DNA barcoding is a very exciting process, and every day we do small (and sometim
 * <a href="{{ site.baseurl }}{% link pages/courses/dna-barcoding-challenges.md %}">What is the most challenging part of the DNA barcoding work?</a>
 <br>
 * <a href="{{ site.baseurl }}{% link pages/courses/dna-barcoding-helpful-tips.md %}">Helpful tips!</a>
+* <a href="{{ site.baseurl }}{% link pages/courses/dna-barcoding-publications.md %}">Our publications, presentations, and GenBank submissions</a>
+
+
+
+
