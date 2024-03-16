@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/ic4f/alina.svg?branch=master)](https://travis-ci.org/ic4f/alina)
 
-This is the code for Alina's Jekyll-based website: <a href="http://alinaavanesyan.com">http://alinaavanesyan.com</a>. 
+This is the code for Alina's Jekyll-based website: <a href="http://alinadavis.me">http://alinadavis.me</a>. 
 
 ### Notable additions:
 
