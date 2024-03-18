@@ -25,7 +25,7 @@ Outside my work I enjoy spending time with [my husband](http://ic4f.me) and our 
     class="ic4f-mtrig ic4f-zoomin w-40 d-block mx-auto"
     src="{{ '/assets/content/misc/we.jpg' | relative_url }}" 
     alt="..." >
-  <figcaption class="d-none">Sergey, Alina, and Alice</figcaption>
+  <figcaption class="d-none">John, Alina, and Alice</figcaption>
 </figure>
 
 ...because everything is so interesting!
