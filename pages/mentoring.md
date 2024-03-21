@@ -3,6 +3,9 @@ title:      Mentoring Students
 permalink:  /mentoring/
 
 ---
+
+Below is my previous mentoring experience.
+
 <hr>
 
 ## Ecology of species interactions: use of molecular diet analysis 
