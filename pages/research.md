@@ -3,7 +3,7 @@ title:      Ecology and evolution of novel species interactions
 permalink:  /research/
 ---
 
-Below is my previous research experience.
+_Below is my previous research experience._
 
 In my research, I explore various eco-evolutionary mechanisms which drive species interactions, and especially novel interactions between native and invasive species. I’m using primarily arthropods and plant-insect study systems to investigate how the lack of co-evolutionary history affects species adaptations to novel hosts, enemies, food sources, etc. I'm particularly curious how species behavior, morphology, and physiology change in response to novel environments. I’ve been working on a variety of projects that involve field and greenhouse experiments, molecular biology techniques, light and scanning electron microscopy, as well as systematic reviews and meta-analyses of existing ecological data. 
 
