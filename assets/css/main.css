@@ -182,6 +182,12 @@ h4, h5, h6 {
   line-height: 1rem;
 }
 
+.ic4f-blog-list-content {
+  font-size: .9rem;
+  border-bottom: #ccc solid 1px;
+  margin-bottom: 15px;
+}
+
 .ic4f-blog-list-excerpt {
   font-size: .9rem;
 }
